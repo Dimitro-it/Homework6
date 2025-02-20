@@ -1,0 +1,58 @@
+/* .grechen-fuemen-regular {
+    font-family: "Grechen Fuemen", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .shafarik-regular {
+    font-family: "Shafarik", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .sigmar-regular {
+    font-family: "Sigmar", serif;
+    font-weight: 400;
+    font-style: normal;
+  } 
+
+h1 {
+    font-size: 20px;
+    color: red; 
+    font-family: "Grechen Fuemen", 'Brush Script MT', serif;
+}
+
+h2 {
+    font-size: 20px;
+    color: green;
+    font-family: "Shafarik", Georgia, serif;
+}
+
+h3 {
+    font-size: 20px;
+    color: brown;
+    font-family: "Sigmar", Georgia,  serif;
+}
+
+a {
+  font-size: 50px;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+a:hover {
+  text-shadow: 2px 2px 5px red ;
+}
+
+.social-networks {
+  list-style: none;
+}
+
+.container {
+  max-width: 900px;
+  width: 100%;
+  padding: 0 20px;
+  margin: 0 auto;
+  background-color: aqua;
+} */
