@@ -1,58 +1,235 @@
-/* .grechen-fuemen-regular {
-    font-family: "Grechen Fuemen", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-
-  .shafarik-regular {
-    font-family: "Shafarik", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-
-  .sigmar-regular {
-    font-family: "Sigmar", serif;
-    font-weight: 400;
-    font-style: normal;
-  } 
-
-h1 {
-    font-size: 20px;
-    color: red; 
-    font-family: "Grechen Fuemen", 'Brush Script MT', serif;
+.container {
+  max-width: 1620px;
+  width: 100%;
+  background-color: #EEEFF1;
+  margin: 0 auto;
+  
 }
 
-h2 {
-    font-size: 20px;
-    color: green;
-    font-family: "Shafarik", Georgia, serif;
-}
-
-h3 {
-    font-size: 20px;
-    color: brown;
-    font-family: "Sigmar", Georgia,  serif;
-}
-
-a {
-  font-size: 50px;
+.list {
+  list-style: none;
   margin: 0;
   padding: 0;
-  text-decoration: none;
+  text-align: center;
 }
 
-a:hover {
-  text-shadow: 2px 2px 5px red ;
+.list > li {
+  display: inline-block;
+  margin: 10px 10px;
+  padding: 10px 10px;
+  font-size: 12px;
 }
 
-.social-networks {
+.navigation {
+  max-width: 946px;
+  display: inline-block;
+}
+
+.size {
+  width: 700px;
+  background-color: #EEEFF1;
+  display: inline;
+  text-align: center;
+}
+
+.rope {
+  width: 100%;
+  text-align: left;
+  margin: 0 auto;
+  background-color: #EEEFF1;
+  padding: 50px 80px 90px 250px ;
+}
+
+ h1 {
+  font-size: 30px;
+  display: inline-block;
+  margin-top: 60px;
+}
+
+.text {
+  font-size: 14px;
+  display: block;
+  padding: 0 30px 0 0;
+}
+ .some {
+  width: 225px;
+  margin-top: 70px;
+ }
+
+ .font {
+  padding: 12px 35px;
+  background-color: #34547A;
+  color: aliceblue;
+ }
+
+ .aqua {
+  background-color: white;
+  text-align: center;
+ }
+
+ h2 {
+  display: inline-block;
+  margin-top: 70px;
+  font-size: 25px;
+ }
+
+ .rode {
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 15px;
+  padding-bottom: 50px;
+ }
+
+ .vanish {
+  width: 100%;
+  background-color: #34547A;
+  text-align: center;
+ }
+
+/* .iconka {
+  width: 100%;
+  text-align: center;
+}
+
+.iconka a span {
+font-size: 50px;
+color: white;
+} */
+
+.listovka {
+  list-style: none;
+  margin: 0;
+  padding: 60px 150px;
+  text-align: center;
+}
+
+.listovka > li {
+  display: inline-block;
+  padding: 10px 30px;
+}
+
+.head {
+  width: 1535px;
+  background-color: #EEEFF1;
+}
+
+.dima,
+.taniy,
+.maria,
+.darina,
+.katy,
+.kira {
+  margin: 0;
+  padding: 0px;
+}
+
+.dima > a {
+  font-size: 50px;
+  color: white;
   list-style: none;
 }
 
-.container {
-  max-width: 900px;
+.taniy > a {
+  font-size: 50px;
+  color: white;
+}
+
+.maria > a {
+  font-size: 50px;
+  color: white;
+}
+
+.darina > a {
+  font-size: 50px;
+  color: white;
+}
+
+.kira > a {
+  font-size: 50px;
+  color: white;
+}
+
+.katy > a {
+  font-size: 50px;
+  color: white;
+}
+
+.listovka a {
+  text-decoration: none;
+}
+
+.trip {
+  display: inline-block;
+}
+
+.trip > p {
+  color: white;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.trip > span {
+  color: white;
+  margin-top: 10px;
+}
+
+.newka {
   width: 100%;
-  padding: 0 20px;
-  margin: 0 auto;
-  background-color: aqua;
-} */
+  background-color: #EEEFF1;
+}
+
+.korch {
+  text-align: center;
+}
+
+h3 {
+  display: inline-block;
+  margin-top: 80px;
+  font-size: 25px;
+}
+
+.shoo {
+  font-size: 14px;
+  padding: 0 470px;
+  margin-bottom: 70px;
+}
+
+.pizza {
+  font-size: 14px;
+}
+
+.video {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.smoke {
+  background-color: #34547A;
+  width: 100%;
+}
+
+.content {
+  text-align: left;
+  padding: 20px;
+  padding-left: 200px;
+  color: white;
+}
+
+.font > a {
+  color: white;
+  text-decoration: none;
+}
+
+.dod > a {
+  color: black;
+  text-decoration: none;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+a:hover {
+  text-shadow: 2px 2px 5px yellow;
+}
